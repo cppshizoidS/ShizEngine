@@ -42,4 +42,4 @@ public:
 };
 
 
-#endif //INC_3DZAVR_TRIANGLE_H
+#endif //TRIANGLE_H
