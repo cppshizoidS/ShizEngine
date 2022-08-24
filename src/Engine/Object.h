@@ -11,6 +11,7 @@
 #include <SFML/OpenGL.hpp>
 
 class ObjectNameTag final {
+    
 private:
     const std::string _name;
 public:
