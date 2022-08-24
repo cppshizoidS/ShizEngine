@@ -62,4 +62,4 @@ public:
     void glFreeFloatArray();
 };
 
-#endif //INC_3DZAVR_MESH_H
+#endif
