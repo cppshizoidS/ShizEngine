@@ -86,4 +86,4 @@ public:
     virtual ~Object();
 };
 
-#endif //MINECRAFT_3DZAVR_OBJECT_H
+#endif
